@@ -1,0 +1,489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zeStatix\n"
+"POT-Creation-Date: 2021-11-18 11:38+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mikola Shadrin <moduleforyou@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class_Select_zeStatix.php:535
+msgid "Are you sure you want to track this element?"
+msgstr "Вы уверены, что хотите отслеживать этот элемент?"
+
+#: includes/class_Select_zeStatix.php:582
+msgid "NAME"
+msgstr "ИМЯ"
+
+#: includes/class_Select_zeStatix.php:584
+msgid "enter name"
+msgstr "введите имя"
+
+#: includes/class_Select_zeStatix.php:590 includes/setting_page.php:1822
+msgid "any width"
+msgstr "любая"
+
+#: includes/class_Select_zeStatix.php:591 includes/setting_page.php:1823
+msgid "custom width"
+msgstr "определенная"
+
+#: includes/class_Select_zeStatix.php:594 includes/setting_page.php:1827
+msgid "BROWSER WIDTH"
+msgstr "ШИРИНА БРАУЗЕРА"
+
+#: includes/class_Select_zeStatix.php:631 includes/setting_page.php:1799
+msgid "SELECTOR"
+msgstr "СЕЛЕКТОР"
+
+#: includes/class_Select_zeStatix.php:631 includes/setting_page.php:1812
+msgid "SHOW EXAMPLE"
+msgstr "ПОКАЗАТЬ ПРИМЕР"
+
+#: includes/class_Select_zeStatix.php:631
+msgid "selected"
+msgstr "выбрано"
+
+#: includes/class_Select_zeStatix.php:631
+msgid "enter selector"
+msgstr "введите селектор"
+
+#: includes/class_Select_zeStatix.php:631 includes/setting_page.php:1806
+msgid "clear selector"
+msgstr "отчистить селектор"
+
+#: includes/class_Select_zeStatix.php:637 includes/setting_page.php:1766
+msgid "TRACK ON"
+msgstr "ОТСЛЕЖИВАТЬ НА"
+
+#: includes/class_Select_zeStatix.php:661
+#: includes/class_Select_zeStatix.php:680
+#: includes/class_Select_zeStatix.php:791
+#: includes/class_Select_zeStatix.php:861 includes/setting_page.php:1449
+#: includes/setting_page.php:1792
+msgid "SUBDIRECTORIES: DISABLED"
+msgstr "ПОДКАТЕГОРИИ: ВЫКЛЮЧЕНЫ"
+
+#: includes/class_Select_zeStatix.php:671 includes/setting_page.php:1745
+msgid "TRACKED"
+msgstr "ОТСЛЕЖИВАЕТСЯ"
+
+#: includes/class_Select_zeStatix.php:789
+#: includes/class_Select_zeStatix.php:855 includes/setting_page.php:1445
+#: includes/setting_page.php:1792
+msgid "SUBDIRECTORIES: ENABLED"
+msgstr "ПОДКАТЕГОРИИ: ВКЛЮЧЕНЫ"
+
+#: includes/class_Select_zeStatix.php:823
+msgid "hide example"
+msgstr "скрыть пример"
+
+#: includes/class_Select_zeStatix.php:825
+msgid "show example"
+msgstr "показать пример"
+
+#: includes/class_Select_zeStatix.php:1048 includes/setting_page.php:1980
+msgid "maximum number of characters 255"
+msgstr "максимальное количество символов 255"
+
+#: includes/class_Select_zeStatix.php:1066
+msgid "wrong selector"
+msgstr "неправильный селектор"
+
+#: includes/setting_page.php:1142
+msgid "SAVE"
+msgstr "СОХРАНИТЬ"
+
+#: includes/setting_page.php:1145
+msgid "NAVIGATOR"
+msgstr "НАВИГАТОР"
+
+#: includes/setting_page.php:1148 includes/table_example.php:1
+msgid "DESCRIPTION"
+msgstr "ОПИСАНИЕ"
+
+#: includes/setting_page.php:1161
+msgid "version"
+msgstr "версия"
+
+#: includes/setting_page.php:1167
+msgid "SELECT ELEMENT"
+msgstr "ВЫБРАТЬ ЭЛЕМЕНТ"
+
+#: includes/setting_page.php:1167
+msgid "PRINT ELEMENT"
+msgstr "ВВЕСТИ ЭЛЕМЕНТ"
+
+#: includes/setting_page.php:1347
+msgid "There are no names for navigation"
+msgstr "Нет имен для навигации"
+
+#: includes/setting_page.php:1400 includes/setting_page.php:1866
+msgid "tracked"
+msgstr "отслеживается"
+
+#: includes/setting_page.php:1400
+msgid "paused"
+msgstr "приостановлено"
+
+#: includes/setting_page.php:1447 includes/setting_page.php:1791
+msgid " selected all pages"
+msgstr " выбраны все страницы"
+
+#: includes/setting_page.php:1451 includes/setting_page.php:1791
+msgid " only home page"
+msgstr " только домашняя страница"
+
+#: includes/setting_page.php:1550
+msgid "LOGIN"
+msgstr "ЛОГИН"
+
+#: includes/setting_page.php:1550
+msgid "URL"
+msgstr "ССЫЛКА"
+
+#: includes/setting_page.php:1550
+msgid "DEVICE"
+msgstr "УСТРОЙСТВО"
+
+#: includes/setting_page.php:1550 includes/setting_page.php:1557
+msgid "DISPLAY"
+msgstr "ДИСПЛЕЙ"
+
+#: includes/setting_page.php:1550 includes/setting_page.php:1557
+msgid "BROWSER"
+msgstr "БРАУЗЕР"
+
+#: includes/setting_page.php:1550
+msgid "D / B"
+msgstr "Д / Б"
+
+#: includes/setting_page.php:1550
+msgid "LOCATION"
+msgstr "МЕСТО"
+
+#: includes/setting_page.php:1550
+msgid "DATE"
+msgstr "ДАТА"
+
+#: includes/setting_page.php:1553
+msgid "mobile"
+msgstr "телефон"
+
+#: includes/setting_page.php:1553
+msgid "PC"
+msgstr "ПК"
+
+#: includes/setting_page.php:1744 includes/setting_page.php:1793
+msgid "REMOVE"
+msgstr "УДАЛИТЬ"
+
+#: includes/setting_page.php:1748
+msgid "SETTINGS"
+msgstr "НАСТРОЙКИ"
+
+#: includes/setting_page.php:1751
+msgid "STATISTICS"
+msgstr "СТАТИСТИКА"
+
+#: includes/setting_page.php:1759
+msgid "name"
+msgstr "имя"
+
+#: includes/setting_page.php:1780
+msgid "ADD PAGE"
+msgstr "ДОБАВИТЬ СТРАНИЦУ"
+
+#: includes/setting_page.php:1802
+msgid "enter element selector"
+msgstr "введите селектор элемента"
+
+#: includes/setting_page.php:1813
+msgid "HIDE EXAMPLE"
+msgstr "СКРЫТЬ ПРИМЕР"
+
+#: includes/setting_page.php:1860
+msgid "CLICKS DETAILS"
+msgstr "ДЕТАЛИ КЛИКОВ"
+
+#: includes/setting_page.php:1860
+msgid "HIDE DETAILS"
+msgstr "СКРЫТЬ ДЕТАЛИ"
+
+#: includes/setting_page.php:1865
+msgid "status"
+msgstr "статус"
+
+#: includes/setting_page.php:1869
+msgid "date of creation"
+msgstr "дата создания"
+
+#: includes/setting_page.php:1873
+msgid "loaded"
+msgstr "загружался"
+
+#: includes/setting_page.php:1876 includes/setting_page.php:1890
+msgid "times"
+msgstr "раз"
+
+#: includes/setting_page.php:1879 includes/setting_page.php:1893
+msgid "pages"
+msgstr "страницы"
+
+#: includes/setting_page.php:1882 includes/setting_page.php:1896
+msgid "visitors"
+msgstr "посетители"
+
+#: includes/setting_page.php:1887
+msgid "clicks"
+msgstr "клики"
+
+#: includes/setting_page.php:1904
+msgid "CLEAR HISTORY"
+msgstr "ОТЧИСТИТЬ ИСТОРИЮ"
+
+#: includes/setting_page.php:1905
+msgid "CANCEL"
+msgstr "ОТМЕНА"
+
+#: includes/setting_page.php:1912
+msgid "HISTORY WILL BE DELETED"
+msgstr "ИСТОРИЯ БУДЕТ УДАЛЕНА"
+
+#: includes/setting_page.php:1986
+msgid "insert \\ character before '"
+msgstr "вставить символ \\ перед ‘"
+
+#: includes/table_example.php:1
+msgid "EXAMPLE"
+msgstr "ПРИМЕР"
+
+#: includes/table_example.php:1
+msgid "The element with id=\"lastname\""
+msgstr "Элемент с id «lastname»"
+
+#: includes/table_example.php:1
+msgid "All elements with class=\"intro\""
+msgstr "Все элементы с классом «intro»"
+
+#: includes/table_example.php:1
+msgid "All elements with the class \"intro\" or \"demo\""
+msgstr "Все элементы с классом «intro» или «demo»"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements"
+msgstr "Все элементы «а»"
+
+#: includes/table_example.php:1
+msgid "All \"a\", \"button\" elements"
+msgstr "Все элементы «а», «button»"
+
+#: includes/table_example.php:1
+msgid "The last \"a\" element"
+msgstr "Последний элемент «а»"
+
+#: includes/table_example.php:1
+msgid "The first \"a\" element"
+msgstr "Первый элемент «а»"
+
+#: includes/table_example.php:1
+msgid "All even \"a\" elements"
+msgstr "Все четные элементы «а»"
+
+#: includes/table_example.php:1
+msgid "All odd \"a\" elements"
+msgstr "Все нечетные элементы «а»"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are the first child of their parent"
+msgstr ""
+"Все элементы «a», которые являются первыми дочерними элементами своего "
+"родителя"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are the first \"a\" element of their parent"
+msgstr "Все элементы «а», которые являются первыми «а» в родительском элементе"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are the last child of their parent"
+msgstr ""
+"Все элементы «a», которые являются последними дочерними элементами своего "
+"родителя"
+
+#: includes/table_example.php:1
+msgid "All divs containing \"John\""
+msgstr "Все «div», содержащие контент «John»"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are the last \"a\" element of their parent"
+msgstr ""
+"Все элементы «a», которые являются последним элементом «a» их родительского "
+"элемента"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are the 2nd child of their parent"
+msgstr "Все элементы «a», которые являются вторым потомком своего родителя"
+
+#: includes/table_example.php:1
+msgid ""
+"All \"a\" elements that are the 2nd child of their parent, counting from the "
+"last child"
+msgstr ""
+"Все элементы «a», которые являются вторыми дочерними элементами своего "
+"родителя, начиная с последнего дочернего элемента"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are the 2nd \"a\" element of their parent"
+msgstr ""
+"Все элементы «a», которые являются вторым элементом «a» их родительского "
+"элемента"
+
+#: includes/table_example.php:1
+msgid ""
+"All \"a\" elements that are the 2nd \"a\" element of their parent, counting "
+"from the last child"
+msgstr ""
+"Все элементы «a», которые являются вторым элементом «a» своего родителя, "
+"начиная с последнего дочернего элемента"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are the only child of their parent"
+msgstr ""
+"Все элементы «a», которые являются единственными дочерними элементами своего "
+"родителя"
+
+#: includes/table_example.php:1
+msgid ""
+"All \"a\" elements that are the only child, of its type, of their parent"
+msgstr ""
+"Все элементы «a», которые являются единственными дочерними элементами своего "
+"типа своего родителя"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are a direct child of a \"div\" element"
+msgstr "Все элементы «a», которые являются прямым потомком элемента «div»"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are descendants of a \"div\" element"
+msgstr "Все элементы «a», являющиеся потомками элемента «div»"
+
+#: includes/table_example.php:1
+msgid "The \"a\" element that are next to each \"div\" elements"
+msgstr "Элемент «a» рядом с каждым элементом «div»"
+
+#: includes/table_example.php:1
+msgid "All \"a\" elements that are siblings of a \"div\" element"
+msgstr "Все элементы «a», которые являются родственниками элемента «div»"
+
+#: includes/table_example.php:1
+msgid "The fourth element in a list (index starts at 0)"
+msgstr "Четвертый элемент в списке (индекс начинается с 0)"
+
+#: includes/table_example.php:1
+msgid "List elements with an index greater than 3"
+msgstr "Список элементов с индексом больше 3"
+
+#: includes/table_example.php:1
+msgid "List elements with an index less than 3"
+msgstr "Список элементов с индексом меньше 3"
+
+#: includes/table_example.php:1
+msgid "All elements with a href attribute"
+msgstr "Все элементы с атрибутом href"
+
+#: includes/table_example.php:1
+msgid "All elements with a href attribute value equal to \"default.htm\""
+msgstr "Все элементы со значением атрибута href равным default.htm"
+
+#: includes/table_example.php:1
+msgid "All elements with a href attribute value not equal to \"default.htm\""
+msgstr "Все элементы со значением атрибута href, неравным default.htm"
+
+#: includes/table_example.php:1
+msgid "All elements with a href attribute value ending with \".jpg\""
+msgstr "Все элементы со значением атрибута href, заканчивающимся на «.jpg»"
+
+#: includes/table_example.php:1
+msgid ""
+"All elements with a title attribute value equal to \"Tomorrow\", or starting "
+"with \"Tomorrow\" followed by a hyphen"
+msgstr ""
+"Все элементы со значением атрибута title, равным «Tomorrow» или начинающимся "
+"с «Tomorrow», за которым следует дефис"
+
+#: includes/table_example.php:1
+msgid "All elements with a title attribute value starting with \"Tom\""
+msgstr "Все элементы со значением атрибута title, начинающимся с «Tom»"
+
+#: includes/table_example.php:1
+msgid ""
+"All elements with a title attribute value containing the specific word "
+"\"hello\""
+msgstr "Все элементы со значением атрибута title, содержащим слово «привет»"
+
+#: includes/table_example.php:1
+msgid "All elements with a title attribute value containing the word \"hello\""
+msgstr ""
+"Все элементы со значением атрибута title, содержащим подстроку «привет»"
+
+#: includes/table_example.php:1
+msgid "Element with the data-tracker attribute equal to \"true\""
+msgstr "Элемент с атрибутом data-tracker=«true»"
+
+#: includes/table_example.php:1
+msgid "Select all visible <p> elements"
+msgstr "Выбрать все видимые элементы <p>"
+
+#: includes/table_example.php:1
+msgid "All hidden <p> elements"
+msgstr "Все скрытые элементы <p>"
+
+#: zestatix.php:215
+msgid "Settings"
+msgstr "Настройки"
+
+#: zestatix.php:256
+msgid "Click statistics for any selected element of the site page."
+msgstr "Статистика кликов для любого выбранного элемента на страницы сайта."
+
+#~ msgid "element loaded"
+#~ msgstr "элемент загружался"
+
+#~ msgid "watched"
+#~ msgstr "увидели"
+
+#~ msgid "unique visitors"
+#~ msgstr "уникальные посетители"
+
+#~ msgid "unique clicks"
+#~ msgstr "уникальные клики"
+
+#~ msgid "DISPLAY / BROWSER"
+#~ msgstr "ДИСПЛЕЙ / "
+
+#, fuzzy
+#~| msgid "SELECTOR"
+#~ msgid "SELECTOR jQuery"
+#~ msgstr "СЕЛЕКТОР"
+
+#~ msgid "PAUSED"
+#~ msgstr "ПРИОСТАНОВЛЕНО"
+
+#~ msgid "DETAILS"
+#~ msgstr "ДЕТАЛИ"
+
+#~ msgid "CHARTS"
+#~ msgstr "СТАТИСТИКА"
+
+#~ msgid "STATUS: TRACKED"
+#~ msgstr "СТАТУС: НАБЛЮДАЕТСЯ"
